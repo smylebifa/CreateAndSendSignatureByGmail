@@ -1,3 +1,6 @@
 Develop/.vs/
 Develop/wwwroot/FilesOfReceiver
 Develop/wwwroot/FilesOfSender
+Develop/Properties/PublishProfiles
+Develop/bin/
+Develop/CryptLab1WebAppMVC*
